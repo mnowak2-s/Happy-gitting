@@ -1,6 +1,10 @@
-# Happy-gitting-
+# Happy-gitting
+
+Hi there! Happy to git with you!
 
 Just try out the git thing and enjoy gitting!
+
+This is an example of how to add images
 
 Here is a cute dolphin:
 
